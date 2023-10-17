@@ -12,7 +12,7 @@
 
 ## Tutorials
 - Cloud
-  - [Attacking and Defending AWS](https://tryhackme.com/jr/cloud101aws)
+  - [Hacking the Cloud - AWS](https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/)
 
 - API Web Attacks
   - [API Sec University](https://www.apisecuniversity.com/courses/api-penetration-testing)
