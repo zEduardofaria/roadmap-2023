@@ -11,30 +11,14 @@
 ---
 
 ## Tutorials
+- Code Review
+  - [PentesterLab - Code Review Badge](https://pentesterlab.com/badges/codereview)
+
+- Mobile Attacks
+  - [Mobile Application Penetration Testing](https://academy.tcm-sec.com/p/mobile-application-penetration-testing)
 
 - API Web Attacks
   - [API Sec University](https://www.apisecuniversity.com/courses/api-penetration-testing)
- 
-- Cloud
-  - [Hacktricks Cloud](https://cloud.hacktricks.xyz/v/pt-cloud/welcome/readme)
-  - [Hacking the Cloud - AWS](https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/)
-  - [The Big IAM Challenge by Wiz](https://bigiamchallenge.com/challenge/1) - A hosted IAM based CTF 
-  - [CloudFoxable](https://github.com/BishopFox/cloudfoxable) - An intentionally vulnerable Amazon Web Services (AWS) environment.
-  - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) - A vulnerable by-design Amazon Web Services (AWS) deployment tool.
-  - [CloudSec Tidbits](https://github.com/doyensec/cloudsec-tidbits/) - Infrastructure as Code (IaC) laboratory reproducing interesting pentest findings by DoyenSec.
-  - [CONVEX](https://github.com/Azure/CONVEX) - An open-source CTF platform that lets you spin up CTF events in your Microsoft Azure environment.
-  - [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca) - an intentionally vulnerable cloud application to teach privilege escalation on Amazon Web Services (AWS).
-  - [GCP Goat](https://gcpgoat.joshuajebaraj.com/index.html) - An intentionally vulnerable GCP environment to learn and practice GCP security.
-  - [FLAWS](http://flaws.cloud/) - A CTF site based on common mistakes and gotchas when using Amazon Web Services (AWS).
-  - [FLAWS2](http://flaws2.cloud/) - The sequel to the flAWS.cloud CTF site with both an Attacker and Defender track using Amazon Web Services (AWS).
-  - [IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable) - Use Terraform to deploy IAM resources to learn how to identify and exploit vulnerable IAM configurations.
-  - [Lambhack](https://github.com/wickett/lambhack) - A vulnerable serverless Amazon Web Services (AWS) lambda application.
-  - [S3 CTF Challenges](https://n0j.github.io/2017/10/02/aws-s3-ctf.html) - A series of challenges focusing on Amazon Web Services (AWS) S3 misconfigurations.
-  - [ServerlessGoat](https://github.com/OWASP/Serverless-Goat) - An Amazon Web Services (AWS) serverless application that demonstrates common serverless security flaws.
-  - [Thunder CTF](https://thunder-ctf.cloud/) - A CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
- 
-- Mobile Attacks
-  - [Mobile Application Penetration Testing](https://academy.tcm-sec.com/p/mobile-application-penetration-testing)
  
 - Information Gathering
   - [Hack The Box Academy - Network Enumeration with Nmap](https://academy.hackthebox.com/course/preview/network-enumeration-with-nmap)
@@ -115,6 +99,24 @@
 
 - Shells & Payloads
   - [Hack The Box - Shells & Payloads](https://academy.hackthebox.com/course/preview/shells--payloads)
+ 
+- Cloud
+  - [Hacktricks Cloud](https://cloud.hacktricks.xyz/v/pt-cloud/welcome/readme)
+  - [Hacking the Cloud - AWS](https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/)
+  - [The Big IAM Challenge by Wiz](https://bigiamchallenge.com/challenge/1) - A hosted IAM based CTF 
+  - [CloudFoxable](https://github.com/BishopFox/cloudfoxable) - An intentionally vulnerable Amazon Web Services (AWS) environment.
+  - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) - A vulnerable by-design Amazon Web Services (AWS) deployment tool.
+  - [CloudSec Tidbits](https://github.com/doyensec/cloudsec-tidbits/) - Infrastructure as Code (IaC) laboratory reproducing interesting pentest findings by DoyenSec.
+  - [CONVEX](https://github.com/Azure/CONVEX) - An open-source CTF platform that lets you spin up CTF events in your Microsoft Azure environment.
+  - [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca) - an intentionally vulnerable cloud application to teach privilege escalation on Amazon Web Services (AWS).
+  - [GCP Goat](https://gcpgoat.joshuajebaraj.com/index.html) - An intentionally vulnerable GCP environment to learn and practice GCP security.
+  - [FLAWS](http://flaws.cloud/) - A CTF site based on common mistakes and gotchas when using Amazon Web Services (AWS).
+  - [FLAWS2](http://flaws2.cloud/) - The sequel to the flAWS.cloud CTF site with both an Attacker and Defender track using Amazon Web Services (AWS).
+  - [IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable) - Use Terraform to deploy IAM resources to learn how to identify and exploit vulnerable IAM configurations.
+  - [Lambhack](https://github.com/wickett/lambhack) - A vulnerable serverless Amazon Web Services (AWS) lambda application.
+  - [S3 CTF Challenges](https://n0j.github.io/2017/10/02/aws-s3-ctf.html) - A series of challenges focusing on Amazon Web Services (AWS) S3 misconfigurations.
+  - [ServerlessGoat](https://github.com/OWASP/Serverless-Goat) - An Amazon Web Services (AWS) serverless application that demonstrates common serverless security flaws.
+  - [Thunder CTF](https://thunder-ctf.cloud/) - A CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
   
 - Linux Enumeration and Privilege Escalation
   - [Try Hack Me - Linux: Local Enumeration](https://tryhackme.com/room/lle)
@@ -173,13 +175,3 @@
 - [Hack the Box - Active Directory - Youtube](https://www.youtube.com/watch?v=H9FcE_FMZio&list=PLrmSJpHp5WGg4sUndkYBg8B5qO2COSxS4)  
 - [Vulnhub OSCP pathway training - Youtube](https://www.youtube.com/watch?v=LRO9KIDv_DQ&list=PLV_npv_S1L938Gal4XNiUfmHjUFNLq4rc)  
 - [Beco do Exploit - Hack 30 machines in 30 days! - Youtube](https://www.youtube.com/watch?v=xnCS8fYfrjs&list=PLHBDBcFA_l_WBcUJWf8cp5BaPsUkquRQU)  
-
-
----
-
-<h1 align="center">Good preparation ;)</h1>
-<p align="center">
-  <a href="https://media.tenor.com/ArV6RGIhAGkAAAAC/edgerunners-cyberpunk.gif">
-    <img src="https://media.tenor.com/ArV6RGIhAGkAAAAC/edgerunners-cyberpunk.gif"/>
-  </a>
-</p>
