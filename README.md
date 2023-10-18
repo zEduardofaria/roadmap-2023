@@ -1,9 +1,9 @@
-<h1 align=center> 2024 journey!</h2>
+<h1 align=center> Offsec journey!</h2>
 
 ---
 
 <p align="center">
-  <a href="https://c4.wallpaperflare.com/wallpaper/288/722/467/cyberpunk-edgerunners-lucy-edgerunners-anime-girls-cyberpunk-2077-cyberpunk-hd-wallpaper-preview.jpg">
+  <a href="https://cdn.epicstream.com/images/ncavvykf/epicstream/7e1375bdb576bff304b4c5876f1dfad911d050e9-1400x700.jpg">
     <img height=300 src="https://c4.wallpaperflare.com/wallpaper/288/722/467/cyberpunk-edgerunners-lucy-edgerunners-anime-girls-cyberpunk-2077-cyberpunk-hd-wallpaper-preview.jpg" />
   </a>
 </p>
