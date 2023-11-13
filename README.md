@@ -13,7 +13,7 @@
 ## Tutorials
 
 - API Web Attacks
-  - [API Sec University](https://www.apisecuniversity.com/courses/api-penetration-testing)
+  - [API Sec University](https://www.apisecuniversity.com/courses/api-penetration-testing) [Feito]
 
 - Code Review
   - [PentesterLab - Code Review Badge](https://pentesterlab.com/badges/codereview)
@@ -21,6 +21,7 @@
 - Web Application Attacks
   - [Hack The Box Academy - Bug Bounty Hunter](https://academy.hackthebox.com/path/preview/bug-bounty-hunter)
   - [Portswigger - Web Security Academy](https://portswigger.net/web-security/all-topics)
+  - [OWASP API Security Top 10](https://university.apisec.ai/products/owasp-api-security-top-10-and-beyond)
   - TALVEZ Crowsec
 
 - Mobile Attacks
