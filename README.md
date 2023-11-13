@@ -80,6 +80,13 @@
   - [Try Hack Me - Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
   - [Try Hack Me - HoloLive](https://tryhackme.com/room/hololive)
   - [Try Hack Me - Throwback Network Labs Attacking Windows Active Directory](https://tryhackme.com/network/throwback)
+    
+- C2 / Command and Control
+  - [DESEC - Evasão de Defesas](https://desecsecurity.com/curso/evasao-defesas)
+  - [GoHacking EHC2 - Ethical Hacking Command and Control](https://www.youtube.com/watch?v=bUqu8fh7xUg)
+ 
+- Recon
+  - [DESEC - Smart Recon](https://desecsecurity.com/curso/smart-recon)
 
 - Certificação DESEC
   - [DESEC - Pentest Experience](https://desecsecurity.com/curso/pentest-experience)
