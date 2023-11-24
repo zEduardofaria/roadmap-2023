@@ -25,7 +25,6 @@
   - [Iniciado] [Hack The Box Academy - Bug Bounty Hunter](https://academy.hackthebox.com/path/preview/bug-bounty-hunter)
   - [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
   - [Portswigger - Web Security Academy](https://portswigger.net/web-security/all-topics)
-  - [OWASP API Security Top 10](https://university.apisec.ai/products/owasp-api-security-top-10-and-beyond)
 
 - Mobile Attacks
   - [Mobile Application Penetration Testing](https://academy.tcm-sec.com/p/mobile-application-penetration-testing)
