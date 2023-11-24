@@ -13,20 +13,23 @@
 ## Tutorials
 
 - API Web Attacks
-  - [API Sec University](https://www.apisecuniversity.com/courses/api-penetration-testing) [Feito]
+  - [Feito] [API Sec University](https://www.apisecuniversity.com/courses/api-penetration-testing)
+  - [OWASP API Security Top 10](https://university.apisec.ai/products/owasp-api-security-top-10-and-beyond)
 
 - Code Review
-  - [PentesterLab - Code Review Badge](https://pentesterlab.com/badges/codereview)
+  - [Feito] [CONVISO] Workshop de Code review
+  - [Iniciado] [PentesterLab - Code Review Badge](https://pentesterlab.com/badges/codereview)
+  - [OWASP Code Review Guide](https://owasp.org/www-project-code-review-guide/)
 
 - Web Application Attacks
-  - [Hack The Box Academy - Bug Bounty Hunter](https://academy.hackthebox.com/path/preview/bug-bounty-hunter)
+  - [Iniciado] [Hack The Box Academy - Bug Bounty Hunter](https://academy.hackthebox.com/path/preview/bug-bounty-hunter)
+  - [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
   - [Portswigger - Web Security Academy](https://portswigger.net/web-security/all-topics)
   - [OWASP API Security Top 10](https://university.apisec.ai/products/owasp-api-security-top-10-and-beyond)
-  - TALVEZ Crowsec
 
 - Mobile Attacks
   - [Mobile Application Penetration Testing](https://academy.tcm-sec.com/p/mobile-application-penetration-testing)
-  - [DESEC - Mobile](https://desecsecurity.com/curso/pentest-android)
+  - [OWASP Mobile Application Security](https://owasp.org/www-project-mobile-app-security/)
 
 - Pentest
   - [Hack The Box Academy - Penetration Tester](https://academy.hackthebox.com/path/preview/penetration-tester)
